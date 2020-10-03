@@ -14,8 +14,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayanta-b-752432130/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sayanta2702)
-[![Facebook](https://img.shields.io/badge/Facebook-gray.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/sayanta.bhattacharjee.589)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/saynbeatbox/)
+[![Facebook](https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/sayanta.bhattacharjee.589)
+[![Instagram](https://img.shields.io/badge/Instagram-pink.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/saynbeatbox/)
 
 <a href="https://github.com/Sayan-dev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan-dev&show_icons=true&theme=dracula&line_height=27" alt="Sayanta's github stats"/>
