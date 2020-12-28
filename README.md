@@ -5,7 +5,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-- 🔭 I’m currently working as: Open Source Developer
+- 🔭 I’m currently working as: Freelance Developer
 - 👯 I'm moving ahead with the rapidly changing world trying to create an impact that brings a major change in the world .
 - 💬 Ask me about Freelancing,React, NodeJS , JavaScript, CSS, React-Native ,Open Source, BeatBoxing 🎶️ and more
 - 😄 Passion work: BeatBoxing 🎧️, Artist 🎨
