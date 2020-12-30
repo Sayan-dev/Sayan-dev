@@ -1,5 +1,5 @@
 ### Hi there 👋, Sayanta here 😎️
-###### A Software Developer 🚀 with experience of building Full Stack 🌐 applications and Native 📱 Applications.
+###### A Software Developer 🚀 with experience of building Full Stack 🌐 applications and Hybrid 📱 Applications.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
