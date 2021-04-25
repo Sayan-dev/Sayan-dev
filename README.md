@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working as: Freelance Developer
 - 👯 I'm moving ahead with the rapidly changing world trying to create an impact that brings a major change in the world .
-- 💬 Ask me about Freelancing,React, NodeJS , JavaScript, CSS, React-Native ,Open Source, BeatBoxing 🎶️ and more
-- 😄 Passion work: BeatBoxing 🎧️, Artist 🎨
+- 💬 Ask me about Freelancing,React, NodeJS , JavaScript, CSS, React-Native ,Open Source, BeatBoxing, Flute 🎶️ and more
+- 😄 Passion work: BeatBoxing, Flute 🎧️, Artist 🎨
 - ⚡ Past work and experience: Software Engineer Intern [@TeamCognito](https://github.com/teamcognito-tech-llp)
 - 📫 How to reach me:
 
