@@ -5,13 +5,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 - 🔭 I’m currently working as: Freelance Developer, Developing [@Mentro](https://github.com/Mentro-Org)
 - 👯 I'm moving ahead with the rapidly changing world trying to create an impact that brings a major change in the world .
-- 💬 Ask me about Freelancing,React, NodeJS , JavaScript, CSS, React-Native ,Open Source, BeatBoxing, Flute 🎶️ and more
+- 💬 Ask me about MOngoDB, Freelancing,React, NodeJS , JavaScript, CSS, React-Native ,Open Source, BeatBoxing, Flute 🎶️ and more
 - 😄 Passion work: BeatBoxing, Flutist 🎧️, Artist 🎨
-- ⚡ Past work and experience: Software Engineer Intern [@TeamCognito](https://github.com/teamcognito-tech-llp)
+- ⚡ Past work and experience: SDE [@Sconto](https://sconto.ai), SE Intern [@TeamCognito](https://github.com/teamcognito-tech-llp)
 - 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayanta-bhattacharjee-752432130/)
