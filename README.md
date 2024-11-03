@@ -10,7 +10,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 
-- 🔭 I’m currently working as: Freelance Developer, Ex [@Sconto](https://sconto.ai), Ex [@Mentro](https://github.com/Mentro-Org)
+- 🔭 I’m currently working as: Full Stack Developer [@GodspeedGames](https://www.godspeedgames.com/), Ex [@Sconto](https://sconto.ai), Ex [@Mentro](https://github.com/Mentro-Org)
 - 👯 I'm moving ahead with the rapidly changing world trying to create an impact that brings a major change in the world .
 - 💬 Ask me about MongoDB, Freelancing, React, NodeJS , JavaScript, CSS, React-Native ,Open Source, BeatBoxing, Flute 🎶️ and more
 - 😄 Passion work: BeatBoxing, Flutist 🎧️, Artist 🎨
